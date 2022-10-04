@@ -8,11 +8,15 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img
-            src={detective}
-            className="App-logo img-fluid"
-            alt="black and white detective logo"
-          />
+          
+            <img
+              src={detective}
+              className="App-logo img-fluid"
+              alt="black and white detective logo"
+            />
+            <h1>
+            DICTIONARY SEARCH
+          </h1>
         </header>
         <main>
           <Dictionary />
