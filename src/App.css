@@ -6,3 +6,8 @@
   max-width: 200px;
   display: block;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 30px auto;
+}
