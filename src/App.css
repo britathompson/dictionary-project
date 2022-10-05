@@ -1,14 +1,23 @@
+.App {
+  background: #c6bcbe;
+}
+
 .App-header {
   margin: 30px;
-  /* text-align: center; */
+  text-align: center;
 }
 
 .App-logo {
-  max-width: 200px;
-  display: block;
+  max-width: 130px;
+  display: in-line;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px auto;
+}
+
+.App-title {
+  position: relative;
+  top: 50px;
 }

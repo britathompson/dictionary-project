@@ -1,0 +1,17 @@
+.Dictionary section {
+  background: linear-gradient(111.5deg, rgb(228, 247, 255) 21.9%, rgb(255, 216, 194) 92.2%);
+  padding: 30px 60px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  margin: 20px 150px;
+  /* min-width: 500px; */
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  border: 1px solid #c6bcbe;
+  border-radius: 4px;
+  color: #333;
+}
+

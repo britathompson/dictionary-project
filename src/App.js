@@ -1,5 +1,5 @@
 import React from "react";
-import detective from "./detective.jpeg";
+import detective from "./dictionary-pipe.jpeg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -8,14 +8,15 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          
+          <h1>
             <img
               src={detective}
               className="App-logo img-fluid"
               alt="black and white detective logo"
             />
-            <h1>
-            DICTIONARY SEARCH
+            <span className="App-title">
+            DICTIONARY
+            </span>
           </h1>
         </header>
         <main>
